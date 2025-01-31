@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Daniel 
 
-🚀 A motivated student who enjoys tackling problems and improving skills. 💡 Passionate about creating, and learning something new every day. 🎓👨‍💻  
+🚀 A motivated student who enjoys tackling problems and improving skills.  
 
 **Here's a snapshot of who I am:**
 
@@ -16,7 +16,6 @@ Here's what I bring to the table:
 - **🌐 Web Development**: Skilled in basic HTML5, CSS3 and React.
 - **📊 Database Management**: Familiar with SQL and Flask(SQLAlchemy).
 - **🔌 Embedded Systems**: Currently learning the basics of developing software for microcontrollers and IoT devices.
-- **🚀 Adaptability**: Ready to dive into new technologies and frameworks.
 
 ## My GitHub Stats 📊
 
@@ -24,4 +23,4 @@ Here's what I bring to the table:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Krod&layout=compact&theme=radical&langs_count=8)
 
-✨ **Check out my repositories or drop me a message to collaborate!** 🚀💬
+✨ **Check out my repositories or drop me a message to collaborate!** 💬
