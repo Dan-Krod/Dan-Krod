@@ -10,11 +10,9 @@
 
 ## My Skillset 💻
 
-Here's what I bring to the table:
-
-- **🖥 Programming Languages**: Python(Good), С/C++(basic), JavaScript(basic).
+- **🖥 Programming Languages**: Python(good), С/C++(basic), JavaScript(basic).
 - **🌐 Web Development**: Skilled in basic HTML5, CSS3 and React.
-- **📊 Database Management**: Familiar with SQL and Flask(SQLAlchemy).
+- **📊 Database Management**: Familiar with SQL and Flask (SQLAlchemy).
 - **🔌 Embedded Systems**: Currently learning the basics of developing software for microcontrollers and IoT devices.
 
 ## My GitHub Stats 📊
